@@ -49,6 +49,7 @@ I am a 3rd-year Robotics and Automation student at Reva University passionate ab
   - HACKATHON -- 2023
   - INTERNSHIP at MYCAPTAIN -- 2022
   - Introduction to Cybersecurity by Cisco  -- 2021
+  - 
 </details>
 
 ### Interests
