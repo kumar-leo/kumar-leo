@@ -1,21 +1,21 @@
 # Hi there, I'm Kavyakumar S Bhagat! 👋
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/q7jSKGKd5J08gGRaV9/giphy.gif?cid=6c09b952q2m13imosselswkloml8y9dmuripdaygwo4d711k&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Robotics and Automation" width="400" height="300">
-</div>
-
 ## About Me
-I am a 3rd-year Robotics and Automation student at Reva University passionate about merging technology with innovative solutions. I have a keen interest in robotics, AI, and exploring the realm of automation.
+Im a passionate and driven graduate student specialized in Robotics and AI. With a strong interest in cutting-edge technology and a deep desire to contribute to the field of robotics, I am actively seeking opportunities at leading companies.
 
 ### Projects
-
-<div align="center">
-  <img src="https://www.eliterobots.com/wp-content/uploads/2022/09/CS612-1.gif" alt="Robotic Bartender" width="300" height="200">
-  <img src="https://preview.redd.it/16k404p08n161.gif?width=400&auto=webp&s=1cc890b4f1f7985f7049be5f58fd33308a4aeb97" alt="Medicine Dispensing System" width="300" height="200">
-</div>
-
-- **Robotic Bartender:** [https://www.linkedin.com/in/kavyakumar-s-bhagat-6b9769202/]
+- **AeroTerra Bot: The Ultimate Transforming Vehicle.** [https://www.linkedin.com/in/kavyakumar-s-bhagat-6b9769202/]
 - **Medicine Dispensing System:**  [https://www.linkedin.com/in/kavyakumar-s-bhagat-6b9769202/]
+- **Robotic Bartender:** [https://www.linkedin.com/in/kavyakumar-s-bhagat-6b9769202/]
+
+### Experience
+<details>
+  <summary> Experience ( Expand me ! )  </summary>
+
+  - Innodata Inc. | Analyst – AI/LLM    November 2025 – February 2026
+  - Invisible Technologies | AI Research Scientist July 2025- November 2025
+  - Outlier AI | AI Research Scientist | June 2024 – May 2025
+  - MyCaptain | Project Intern | July 2023 – November 2023
+</details>
 
 ### Skills
 <details>
